@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Message Writer"
+  short_description: "Split changes and draft Chinese commits"
+  default_prompt: "Use $commit-message-writer to split my changes into logical commits and draft Chinese commit messages with English types."
